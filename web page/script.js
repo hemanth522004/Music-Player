@@ -1,10 +1,7 @@
 document.querySelector('h1').addEventListener('click', () => {
     alert('You clicked on the heading!');
 });
- // Designed by: Mauricio Bucardo
-// Original image: https://dribbble.com/shots/6957353-Music-Player-Widget
 "use strict";
-// add elemnts
 const bgBody = ["#e5e7e9", "#ff4545", "#f8ded3", "#ffc382", "#f5eda6", "#ffcbdc", "#dcf3f3"];
 const body = document.body;
 const player = document.querySelector(".player");
